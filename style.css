@@ -272,12 +272,13 @@ header {
 }
 
 .cta-btn {
-  font-size: 1.1rem;
+  font-size: 1.6rem;
   background-color: #fff;
   padding: 0.9rem 1.8rem;
-  color: var(--body-font-color);
+  color: #fff;
   border-radius: 0.4rem;
   transition: background-color 0.5s;
+  border-color: #fff;
 }
 
 .cta-btn:hover,
